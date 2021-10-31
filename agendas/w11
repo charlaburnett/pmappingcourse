@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <title>Week 11 | Communications Module | IDFA 470</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="C:\Users\burnet88\Documents\Special Topics\style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="script.js" defer></script>
+  </head>
+
+  <!--   START OF BODY -->
+  <body class="agenda-pages" id="w11">
+    <!-- this is the start of content -->
+    <nav>
+      <a href="C:\Users\burnet88\Documents\Special Topics\index.html">Syllabus</a>
+      <a href="/agendas/w8.html">Week 12</a>
+      <a href="w9.html">Week 13</a>
+    </nav>
+    <main>
+      <header>
+        <h1>
+          Communications Module Overview
+        </h1>
+        <h2>Week 11 | IDFA 470 | Charla Burnett</h2>
+      </header>
+      <div class="module homework">
+        <section>
+          <h3>
+            Weekly Description
+          </h3>
+          <p>
+            This week will be a introduction to our module. We'll get closer to our peers, 
+            you'll get to know more about your instructor. We'll start by talking about mapping and cartography.
+            Before we can get into reintepreting culture <em>through</em> mapping, we must first talk about the culture <em>of</em> mapping.
+          </p>
+        </section>
+      </div>
+      <div class="module">
+        <section>
+          <h3>Agenda</h3>
+          <hr />
+          <section id="introductions">
+            <details>
+              <summary><h4>Introduction</h4></summary>
+              <ul>
+                <li>Name</li>
+                <li>Pronouns</li>
+                <li>What do you want to accomplish with your degree?</li>
+                <li>
+                  How has this class influenced those goals so far?
+                </li>
+              </ul>
+            </details>
+          </section>
+
+          <hr />
+          <section id="icebreaker">
+            <details>
+              <summary>
+                <h4>
+                  Ice Breaker
+                </h4>
+              </summary>
+              <ol>
+                <li>Split Into Groups</li>
+                <p>
+                  Students will be broken up into groups.
+                </p>
+                <li>MAPPING YOUR CAMPUS</li>
+                <ul>
+                  <li>You and your teammates will be asked 5 strategic questions to prompt your maps. </li>
+                  <li> Feel free to draw lines, add shaps, and comment sticky notes on the maps!</li>
+                  <li>We will return to the class and have everyone present their maps.</li>
+                </ul>
+                <li>
+                  Afterward, we will discuss this placemaking activity and the impacts it has on the way we make meaning in the community.  
+                  </li>
+                <li> <a href="https://miro.com/app/board/o9J_lmy0kyo=/?invite_link_id=849777064587">
+                You all will all map places around campus that you interact with most using Miro.  
+              </a></li>
+              <li>You have 15 minutes to map!</li>
+              </ol>
+             
+            </details>
+          </section>
+          <hr />
+          <section id="overview">
+            <details>
+              <summary><h4>Overview</h4></summary>
+              <ol>
+                <li>Week 11 Overview</li>
+                <p>
+                  What makes GIS software so practical is its ability to allow users to create points, 
+                  lines, boundaries, referred to as polygons, visual overlay, and raster data. For example,
+                   a map of a city could be designed for users to create and store placement preferences as points, 
+                   road data can be stored as lines, and boundaries can be stored as polygons, while aerial photos or 
+                   scans can be uploaded right into the map as raster images. These various types of data can be 
+                   analyzed using an array of simple or complex methods depending on the users’ needs. 
+                   Weighted survey data can be added to any number of polygons allowing researchers to create 
+                   ranked spatial plans that fuse together various values and preferences. Some can be expressed 
+                   in relatively small lists of alternatives and ranked using multi-criteria decision making (MCDM) 
+                   using voting, consensus, or soft operations research methods, while others may have so many alternatives, 
+                   multi-objective mathematical optimization is needed (Keisler et al., 2014). 
+                </p>
+                <p>
+                  Participatory Geographic Information Systems (PGIS) is a type of decision support tool that combines Participatory 
+                  Learning and Action (PLA) methods with GIS. The term “participatory GIS” or “PGIS” emerged from the use of participatory 
+                  approaches with GIS used in rural areas of developing countries (Rambaldi et al., 2006). The applied field of PGIS focuses 
+                  on the broader topic of approaches, methods, and processes. PGIS practitioners generally define stakeholders as those 
+                  who will be affected by, can bring knowledge to, or possess the power to influence a decision problem (Sieber, 2003).
+                   Mapping software allows participants to trace relationships between groups, values, and objectives in a way that goes 
+                   beyond the limits of human cognition.   
+                </p>
+                <a href="index.html">Syllabus Overview</a>
+              </ol>
+              
+            </details>
+          </section>
+          <hr />
+          <section class="break">
+            <h3>BREAK</h3>
+          </section>
+          <hr />
+          <section class="instructions" id="presentation">
+            <details>
+              <summary
+                ><h4>The History of Mapping</h4>
+              </summary>
+              <a href="https://docs.google.com/presentation/d/1Wp2eo-oasYUamFImizcK7__nBIbEazM3-6QIC1x_TKE/edit#slide=id.p">Presentation Link</a>
+              <ol>
+                <li>History of Maping and Placemaking</li>
+                <ul>
+                  <li>Pre-historic Mapping</li>
+                  <li>Map-making and Colonialism</li>
+                  <li>Mapping in the 21st Century</li>
+                  <li>Technology</li>
+                  <li>Counter Mapping</li>
+                </ul>
+                <li>What Does This Mean?</li>
+                <ul>
+                  <li>Counter mapping is rooted in feminism epistomologies</li>
+                  <li>The production of them still extremely gendered while the profits swing the other way</li>
+                  <li>A lot of how maps look are decided by a very small group of people and businesses</li>
+            </details>
+          </section>
+          <hr />
+          <section class="instructions" id="case studies">
+            <details>
+              <summary><h4>Case Studies</h4></summary>
+              <li><a href="https://antievictionmap.com/">Mapping the Anti-Eviction Struggle in the San Francisco Bay Area Anti-Eviction Map – Erin McElroy / San Francisco </a></li>
+                  <li><a href="https://ejatlas.org/"> Mapping Global Environmental Conflicts and Spaces of Resistance Environmental Justice Atlas – Leah Temper / Barcelona </a></li>
+                  <li><a href=" mapping.postkolonial.net">Mapping Postkolonial An Archive of Post/Colonial Traces, Layers and Spectres in Munich  – Eva Bahl, Simon Goeke, Zara Pfeiffer, 
+                  Peter Spillmann, Michael Vögeli, Philip Zölls / Munich </a> </li>
+            </details>
+          </section>
+        </section>
+      </div>
+      <div class="module homework">
+        <section id="homework">
+          <h3>
+            Homework
+          </h3>
+
+          <table>
+            <tr>
+              <th>Read</th>
+              <th>Watch</th>
+            </tr>
+            <tr>
+              <td>
+                <p><a
+                  href="https://www.transcript-verlag.de/shopMedia/openaccess/pdf/oa9783839445198.pdf">How to become an occasional mapper,” in This is not an Atlas, an edited volume by Kollektiv Orangotango . pg. 165-205 </a>
+                  </p>
+              </td>
+              <td><p>
+                <li><a href="https://www.youtube.com/watch?v=f4dXGZ4YJ60">Rudo Kemper at the ISPM Conference | Amazon Conservation Team"</a></li>
+                 <li><a href="https://www.youtube.com/watch?v=SdsiNvxJcsY">ISPM Webinar: Roots of our practice (April 13 2021)</a></li></p></td>
+             
+            </tr>
+            <tr>
+              <th colspan="2">Action Items</th>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <h4>
+                  Map Search
+                </h4>
+                <ol>
+                  <li>Overview</li>
+                  <ul>
+                    <li>Each Student will look at their story, the place they’re calling, think about the needs and culture of this space and think about, and find a map online that relays the same type of knowledge you're interested in sharing </li>
+                  <ul>
+                    <li>How does this map relay a story to its audience?</li>
+                    <li>What did the cartographer do well? What did the cartographer do not so well?</li>
+                    <li>How does this map change reality?</li>
+                  </ul>
+                    <li> Review the weekly materials to better understand mapping, placemaking, identity, and storytelling </li>
+                    <li> Do not feel bound by reality! There are maps that tell fictional stories.</li>
+                  </ul>
+                  <li>
+                   Deliverable For Next Week
+                  </li>
+                  <ul>
+                    <li>Find a map to present on</li>
+                    <li> Create a powerpoint answering the above questions</li>
+                    <li>Watch the videos and be prepared to present your case study</li>
+                  </ul>
+                  <li>Submission</li>
+                  <ul>
+                    <li>Submit for final interpretation via <a href="https://drive.google.com/drive/folders/12FDEV2JUT5fIauqxF0FH16mn8Z7T1Vb_?usp=sharing">Google Drive</a> by <strong>12PM on Monday November 15th, 2021 </strong></li>
+                  </ul>
+                </ol>
+              </td>
+            </tr>
+          </table>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>
