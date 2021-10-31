@@ -1,0 +1,186 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  /* adjust typography defaults */
+  body {
+    margin: 1rem;
+    padding: 0rem 5%;
+    font-family: sans-serif;
+    line-height: 1.5;
+    background-color:#FDCA40;
+  }
+  
+  header {
+    padding-top: 60px;
+    text-align: center;
+  }
+  
+  /* images and videos max out at full width */
+  img,
+  video {
+    height: auto;
+    max-width: 100%;
+  }
+  
+  /* Microsite General Styling */
+  
+  /* Navigation */
+  nav {
+    position: fixed;
+    left: 50%;
+    background-color: #51C2D5;
+    transform: translateX(-50%);
+  }
+  
+  nav a {
+    margin-right: 10px;
+  }
+  
+  nav a:first-child {
+    margin-left: 10px;
+  }
+  
+  /* Headings  */
+  h1, h2,h3, h4,h5,h6 {
+    text-align:center;
+  }
+  
+  h4 {
+    margin-bottom: 10px;
+  }
+  h4+p {
+    margin-top: 0px
+  }
+  
+  /* Instructions */
+  ol li{
+    text-decoration: underline;
+    list-style:none;
+  }
+  
+  ul li {
+    text-decoration: none !important;
+    list-style:none;
+  }
+  
+  li + p {
+    margin-top: 0px;
+    padding-left: 20px;
+  }
+  
+  hr {
+    margin: 2em 0em 1em 0em;
+  }
+  
+  
+  /* Accordion  */
+  details > summary {
+    list-style: none;
+  }
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  summary:focus {outline:0;}
+  
+  /* Homework Table */
+  table {
+    width: 100%;
+  }
+  
+  table, th, td {
+    border:1px solid black;
+  }
+  
+  /* Classes */
+  .module {
+    padding-bottom: 30px;
+  }
+  
+  .agenda-pages {
+      padding: 0 !important; 
+    margin: 0;
+    margin-top: 1em;
+  }
+  
+  .module section, .module hr {
+    margin: 1rem 5%;
+  }
+  
+  .homework {
+    padding-top: 10px;
+  }
+  
+  /* Week 7 styles */
+  #w11 {
+    background-color: #A7C5EB;
+  }
+  #w7 nav {
+    background-color: BlanchedAlmond;
+  }
+  #w7 .homework {
+    background-color: FloralWhite;
+  }
+  
+  #w7 table, th, td {
+    border-color: BlanchedAlmond
+  }
+  
+  
+  /* Week 8 styles */
+  #w8 {
+    background-color: cornflowerblue;
+  }
+  #w8 nav {
+    background-color: mediumpurple;
+  }
+  #w8 .homework {
+    background-color: lightSkyBlue;
+  }
+  
+  #w8 table, th, td {
+    border-color: mediumpurple;
+  }
+  
+  #w8 ol ol li {
+    text-decoration: none !important;
+  }
+  
+  td p {
+    text-align:center;
+  }
+  
+  
+  p + ul {
+    margin-top: 0;
+  }
+  
+  /* Week 8 styles */
+  #w9 {
+    background-color: LightCoral;
+  }
+  #w9 nav {
+    background-color: PowderBlue;
+  }
+  #w9 .homework {
+    background-color: LightGreen;
+  }
+  
+  #w9 .break {
+    color: PowderBlue;
+  }
+  
+  #w9 table, th, td {
+    border-color: black;
+  }
+  
+  
